@@ -10,10 +10,14 @@
 
   --gray: #afabb6;
   --white: #ffffff;
+
+  color: var(--white);
 }
 
 body {
   font-family: "Inter", sans-serif;
+  background-color: var(--dark-10);
+  width: 100vw;
 }
 
 h1,
