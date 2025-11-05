@@ -1,11 +1,7 @@
 import Input from "../ui/Input";
 import styles from './Header.module.css';
 
-interface HeaderProps {
-  
-}
-
-export default function Header({  }: HeaderProps) {
+export default function Header() {
   return (
     <>
       <header className={styles.header}>
