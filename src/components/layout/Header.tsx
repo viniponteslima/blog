@@ -7,7 +7,7 @@ export default function Header() {
     <>
       <header className={styles.header}>
         <Link href="/">
-          <h1 className={styles.logo}>Code<b>Lima</b></h1>
+          <h1 className={styles.logo}>Code<b>Licius</b></h1>
         </Link>
         <Input type="search" placeholder="Search..." name="search" key="search" />
       </header>
