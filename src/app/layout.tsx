@@ -5,8 +5,8 @@ import Header from "@/components/layout/Header";
 import Main from "@/components/layout/Main";
 
 export const metadata: Metadata = {
-  title: "CodeLima Blog",
-  description: "Um blog sobre programação e tecnologia.",
+  title: "CodeLicius Blog",
+  description: "Um blog Fantasia sobre programação e tecnologia.",
 };
 
 export default function RootLayout({
